@@ -23,7 +23,7 @@ function Home() {
 
             <p className="hero__description">
               Desarrollo sitios y aplicaciones web modernas,
-              funcionales y adaptadas a cualquier dispositivo.
+              funcionales y adaptadas a los objetivos de mis clientes.
             </p>
 
             <div className="hero__buttons">
